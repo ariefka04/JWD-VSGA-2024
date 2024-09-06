@@ -1,0 +1,15 @@
+  .navbar-nav .nav-link:hover {
+    color: #FFD700; /* Ubah warna saat hover, misalnya ke warna emas */
+  }
+  .navbar-nav .nav-link {
+    transition: color 0.3s ease; /* Agar transisinya halus */
+  }
+
+  .banner {
+    background: url(img/gambar2.jpg)
+    no-repeat center center;
+    background-size: cover;
+    padding: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+  }
